@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/tmp/123/android/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/user/tmp/123/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/tmp/Games/android/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/user/tmp/Games/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]

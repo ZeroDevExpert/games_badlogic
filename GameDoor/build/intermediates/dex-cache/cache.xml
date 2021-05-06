@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="/home/user/tmp/Games/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.8_79d390e893851d0f1e78babee0eb2ed88410b7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="/home/user/tmp/Games/android/build/intermediates/pre-dexed/debug/gdx-1.9.8_9dc84fbb850232b7142e7717260c89a312e20e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/tmp/Games/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="425ec903aeae81f23e96a8bffdc654d7429a510f">
+        <dex dex="/home/user/tmp/Games/android/build/intermediates/pre-dexed/debug/core-1.0_99c18130d0ac9cb11d620c559a8046973294dd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.8/6f0497b7958216464101adfb7bdc3a0f7b88d6d3/gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="/home/user/tmp/Games/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.8_fc8cbfbca684237bea5f2fe31b46a356124a82f5.jar" />
+    </item>
+
+</items>
